@@ -1,4 +1,4 @@
-# wildo_coda_2
+# 2018-09_Wildo_Coda_Photographer
 
 Premier projet en groupe réalisé à la Wild Code School en Septembre 2018 avec les technologies HTML5 / BOOTSTRAP /CSS3.
 
