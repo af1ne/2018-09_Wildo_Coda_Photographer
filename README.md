@@ -2,8 +2,6 @@
 
 Premier projet en groupe réalisé à la Wild Code School en Septembre 2018 avec les technologies HTML5 / BOOTSTRAP /CSS3.
 
-Site visible ici : https://af1ne.github.io/wildo_coda/contact.html
-
 Ce projet à permis de découvrir :
 - la grille Bootstrap et ses fonctionnalités
 - le fonctionnement de GIT et GitHub.
